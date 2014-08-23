@@ -1,0 +1,58 @@
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\le\NetduinoApplication1.exe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\be\NetduinoApplication1.exe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\le\NetduinoApplication1.pdb
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\be\NetduinoApplication1.pdb
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\NetduinoApplication1.exe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\NetduinoApplication1.pdb
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\le\NetduinoApplication1.pe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\le\NetduinoApplication1.pdbx
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\be\NetduinoApplication1.pe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\be\NetduinoApplication1.pdbx
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\obj\Debug\NetduinoApplication1.exe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\obj\Debug\NetduinoApplication1.pdb
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\obj\Debug\be\NetduinoApplication1.pe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\obj\Debug\be\NetduinoApplication1.pdbx
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\obj\Debug\le\NetduinoApplication1.pe
+C:\Users\neil.dorin\AppData\Local\Temporary Projects\NetduinoApplication1\obj\Debug\le\NetduinoApplication1.pdbx
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\le\RGB Strip.exe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\be\RGB Strip.exe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\le\RGB Strip.pdb
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\be\RGB Strip.pdb
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\RGB Strip.exe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\RGB Strip.pdb
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\le\RGB Strip.pe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\le\RGB Strip.pdbx
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\be\RGB Strip.pe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\be\RGB Strip.pdbx
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\obj\Debug\be\RGB Strip.pe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\obj\Debug\be\RGB Strip.pdbx
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\obj\Debug\le\RGB Strip.pe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\obj\Debug\le\RGB Strip.pdbx
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\obj\Debug\RGB Strip.exe
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\obj\Debug\RGB Strip.pdb
+C:\Users\neil.dorin\Documents\Visual Studio 2010\Projects\Netduino\RGB Strip\RGB Strip\obj\Debug\RGB Strip.csprojResolveAssemblyReference.cache
